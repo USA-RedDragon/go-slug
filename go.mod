@@ -1,3 +1,3 @@
-module github.com/hashicorp/go-slug
+module github.com/USA-RedDragon/go-slug
 
 go 1.15
